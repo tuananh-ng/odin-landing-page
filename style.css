@@ -15,6 +15,10 @@ body {
     padding: 14px 100px;
 }
 
+.hero {
+    gap: 24px;
+}
+
 .header .logo {
     font-size: 24px;
     color: #f9faf8;
