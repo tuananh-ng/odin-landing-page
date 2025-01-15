@@ -15,6 +15,10 @@ body {
     padding: 14px 100px;
 }
 
+.header {
+    padding-bottom: 80px;
+}
+
 .hero {
     gap: 24px;
 }
