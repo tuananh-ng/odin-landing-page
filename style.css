@@ -6,7 +6,8 @@ body {
     margin: 0;
 }
 
-.header {
+.header,
+.hero {
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -31,11 +32,6 @@ body {
     text-decoration: none;
     color: #e5e7eb;
     font-size: 18px;
-}
-
-.hero {
-    display: flex;
-    justify-content: space-between;
 }
 
 .hero .text {
