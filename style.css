@@ -75,3 +75,13 @@ body {
     color: white;
     padding: 100px 0px;
 }
+
+.info
+.info-collection-item {
+    display: flex;
+    flex-direction: column;
+}
+
+.info .info-collection {
+    display: flex;
+}
