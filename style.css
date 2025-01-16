@@ -12,12 +12,7 @@ body {
     justify-content: space-between;
     align-items: center;
     background-color: #1f2937;
-    padding: 14px 100px;
-}
-
-.header,
-.hero {
-    padding-bottom: 80px;
+    padding: 14px 100px 80px;
 }
 
 .hero {
