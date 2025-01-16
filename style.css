@@ -23,7 +23,8 @@ body {
     gap: 24px;
 }
 
-.header .logo {
+.header .logo,
+.hero .text .main-text {
     font-size: 24px;
     color: #f9faf8;
     font-weight: 900;
@@ -46,6 +47,10 @@ body {
     display: flex;
     flex-direction: column;
     gap: 8px;
+}
+
+.hero .text .main-text {
+    font-size: 48px;
 }
 
 .hero .image {
