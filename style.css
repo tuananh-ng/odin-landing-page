@@ -41,6 +41,7 @@ body {
 
 .hero .text {
     display: flex;
+    flex: 1 0 400px;
     flex-direction: column;
     gap: 10px;
 }
@@ -66,8 +67,8 @@ body {
 }
 
 .hero .image {
-    width: 600px;
     display: flex;
+    flex: 1 0 400px;
     justify-content: center;
     align-items: center;
     background-color: #84888c;
