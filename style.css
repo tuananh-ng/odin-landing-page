@@ -53,6 +53,11 @@ body {
     font-size: 48px;
 }
 
+.hero .text .secondary-text {
+    font-size: 18px;
+    color: #e5e7eb;
+}
+
 .hero .image {
     width: 600px;
     display: flex;
