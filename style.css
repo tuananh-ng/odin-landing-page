@@ -15,7 +15,8 @@ body {
     padding: 14px 100px;
 }
 
-.header {
+.header,
+.hero {
     padding-bottom: 80px;
 }
 
