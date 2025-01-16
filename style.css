@@ -58,6 +58,17 @@ body {
     color: #e5e7eb;
 }
 
+.hero .text button {
+    width: 120px;
+    padding: 10px 0px;
+    background-color: #3882f6;
+    border-radius: 8px;
+    border-style: none;
+    color: #f9faf8;
+    font-weight: 900;
+    font-size: 16px;
+}
+
 .hero .image {
     width: 600px;
     display: flex;
