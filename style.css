@@ -105,7 +105,9 @@ body {
 }
 
 .info .illustration {
+    width: 200px;
     height: 200px;
+    flex-grow: 0;
     border-radius: 8px;
     border: 2px solid #3882f6;
 }
