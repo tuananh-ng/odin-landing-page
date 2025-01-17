@@ -85,10 +85,10 @@ body {
 
 .info.collection {
     flex-flow: row wrap;
-    justify-content: space-between;
+    justify-content: center;
     flex: 1 0 200px;
     margin: 0 100px;
-    gap: 16px;
+    gap: 18px;
 }
 
 .info .title {
@@ -103,7 +103,7 @@ body {
 .info.collection.item {
     justify-content: center;
     align-items: center;
-    gap: 4px;
+    gap: 8px;
 }
 
 .info .illustration {
@@ -116,4 +116,6 @@ body {
 
 .info .subtext {
     text-align: center;
+    font-size: 18px;
+    color: #84888c;
 }
