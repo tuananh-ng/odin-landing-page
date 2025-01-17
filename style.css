@@ -141,7 +141,8 @@ body {
     padding-right: 24px;
 }
 
-.cta {
+.cta,
+.cta .content {
     padding: 40px 100px;
 }
 
@@ -153,7 +154,6 @@ body {
 .cta .content {
     justify-content: space-between;
     background-color: #3882f6;
-    padding: 20px 80px;
     border-radius: 8px;
     color: #f9faf8;
     font-size: 18px;
