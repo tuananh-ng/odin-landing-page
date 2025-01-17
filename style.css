@@ -83,7 +83,15 @@ body {
     flex-direction: column;
 }
 
-.info .title,
 .info.collection {
     flex-direction: row;
+}
+
+.info .title {
+    justify-content: center;
+    align-items: center;
+    margin: 40px 0;
+    font-size: 36px;
+    color: #1f2937;
+    font-weight: 900;
 }
