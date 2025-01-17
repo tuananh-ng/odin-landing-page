@@ -101,6 +101,8 @@ body {
 }
 
 .info.collection.item {
+    justify-content: center;
+    align-items: center;
     gap: 4px;
 }
 
@@ -110,4 +112,8 @@ body {
     flex-grow: 0;
     border-radius: 8px;
     border: 2px solid #3882f6;
+}
+
+.info .subtext {
+    text-align: center;
 }
