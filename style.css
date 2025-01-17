@@ -140,3 +140,7 @@ body {
     font-weight: bold;
     padding-right: 24px;
 }
+
+.cta {
+    padding: 40px 100px;
+}
