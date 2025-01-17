@@ -86,7 +86,6 @@ body {
 .info.collection {
     flex-direction: row;
     justify-content: space-between;
-    flex: 1;
     margin: 0 100px;
 }
 
