@@ -123,6 +123,7 @@ body {
 .quote {
     display: flex;
     flex-direction: column;
+    align-items: flex-end;
     background-color: #e5e7eb;
     padding: 80px 200px;
 }
