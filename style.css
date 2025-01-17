@@ -163,7 +163,17 @@ body {
     flex-direction: column;
 }
 
-.cta .content .text .title {
+.cta .title {
     font-size: 24px;
     font-weight: bold;
+}
+
+.cta button {
+    border-radius: 8px;
+    border: 2px solid #f9faf8;
+    background-color: #3882f6;
+    color: #f9faf8;
+    padding: 5px 40px;
+    font-weight: bold;
+    font-size: 18px;
 }
